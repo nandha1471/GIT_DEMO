@@ -16,7 +16,9 @@ public class GIT_HUB_STEPS {
 				+         " git push -u origin master";
 		}
 	
-	private void gitCloning() {
+	private void cloningFromGIT() {
+		
+		//cloning hepls to get backup the code pushed
 		
 
 		String gitclone = " Create a folder in local or desktop"
